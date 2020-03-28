@@ -1,6 +1,6 @@
 # atcoder
 
-# 困った時に見るべき記事
+## atcoderに関係する記事
 
 ### 手法全般
 #### [atcoderでよく使う手法python版](https://qiita.com/chun1182/items/ddf2b6cba932b2bb0d4e)
